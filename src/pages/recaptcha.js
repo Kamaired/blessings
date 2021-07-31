@@ -46,9 +46,9 @@ export default function Contact() {
 
   return (
     <Layout>
-      <h1>reCAPTCHA 2</h1>
+      <h1>Get in connection.</h1>
       <form
-        name="contact-recaptcha"
+        name="Contact"
         method="post"
         action="/thanks/"
         data-netlify="true"
